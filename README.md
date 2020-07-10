@@ -11,6 +11,6 @@ This, and the visibility I got by being noisy and asking for things, helped me m
 
 - 🔭 I’m currently working on Godot games, pixel art, and Rust library for the unreleased OpenMetric Standard
 - 🌱 I’m currently learning Arduino flavored C++, Love2D, FORTH
-- 🤔 I’m looking for help with Rust projects.
+- 🤔 I’m looking to help with Rust projects.
 - 📫 How to reach me: pard@0x44.pw
 - ⚡ Fun fact: I own three aquatic turtles, one tortoise, two snakes, and four lizards. :turtle: :snake: :lizard: 
