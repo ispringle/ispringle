@@ -1,14 +1,3 @@
 #+title: README
 
 * Hello there 👋
-
-My name is Ian S. Pringle. I'm a full-stack operator, which is a tongue in cheek
-way of saying that I am as competent writing software as I am setting up Linux
-boxes, managing Kubernetes, or designing systems.
-
-I'm an engineer at Hydrobuilder, and I am the owner/operator of a farm.
-
-- 🧰 =(evil (emacs))=
-- 🌱 I’m currently learning VCL (Varnish config language) and Clojure
-- 🤔 I’m looking to help with Rust and Lua projects
-- 📫 How to reach me: pard@0x44.pw
